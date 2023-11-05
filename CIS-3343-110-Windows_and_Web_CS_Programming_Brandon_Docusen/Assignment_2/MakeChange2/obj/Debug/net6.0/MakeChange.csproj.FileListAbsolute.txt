@@ -1,0 +1,15 @@
+C:\Users\brand\Documents\csenvironment\CIS-3343-110-Windows_and_Web_CS_Programming_Brandon_Docusen\Assignment_2\MakeChange\bin\Debug\net6.0\MakeChange.exe
+C:\Users\brand\Documents\csenvironment\CIS-3343-110-Windows_and_Web_CS_Programming_Brandon_Docusen\Assignment_2\MakeChange\bin\Debug\net6.0\MakeChange.deps.json
+C:\Users\brand\Documents\csenvironment\CIS-3343-110-Windows_and_Web_CS_Programming_Brandon_Docusen\Assignment_2\MakeChange\bin\Debug\net6.0\MakeChange.runtimeconfig.json
+C:\Users\brand\Documents\csenvironment\CIS-3343-110-Windows_and_Web_CS_Programming_Brandon_Docusen\Assignment_2\MakeChange\bin\Debug\net6.0\MakeChange.dll
+C:\Users\brand\Documents\csenvironment\CIS-3343-110-Windows_and_Web_CS_Programming_Brandon_Docusen\Assignment_2\MakeChange\bin\Debug\net6.0\MakeChange.pdb
+C:\Users\brand\Documents\csenvironment\CIS-3343-110-Windows_and_Web_CS_Programming_Brandon_Docusen\Assignment_2\MakeChange\obj\Debug\net6.0\MakeChange.csproj.AssemblyReference.cache
+C:\Users\brand\Documents\csenvironment\CIS-3343-110-Windows_and_Web_CS_Programming_Brandon_Docusen\Assignment_2\MakeChange\obj\Debug\net6.0\MakeChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Documents\csenvironment\CIS-3343-110-Windows_and_Web_CS_Programming_Brandon_Docusen\Assignment_2\MakeChange\obj\Debug\net6.0\MakeChange.AssemblyInfoInputs.cache
+C:\Users\brand\Documents\csenvironment\CIS-3343-110-Windows_and_Web_CS_Programming_Brandon_Docusen\Assignment_2\MakeChange\obj\Debug\net6.0\MakeChange.AssemblyInfo.cs
+C:\Users\brand\Documents\csenvironment\CIS-3343-110-Windows_and_Web_CS_Programming_Brandon_Docusen\Assignment_2\MakeChange\obj\Debug\net6.0\MakeChange.csproj.CoreCompileInputs.cache
+C:\Users\brand\Documents\csenvironment\CIS-3343-110-Windows_and_Web_CS_Programming_Brandon_Docusen\Assignment_2\MakeChange\obj\Debug\net6.0\MakeChange.dll
+C:\Users\brand\Documents\csenvironment\CIS-3343-110-Windows_and_Web_CS_Programming_Brandon_Docusen\Assignment_2\MakeChange\obj\Debug\net6.0\refint\MakeChange.dll
+C:\Users\brand\Documents\csenvironment\CIS-3343-110-Windows_and_Web_CS_Programming_Brandon_Docusen\Assignment_2\MakeChange\obj\Debug\net6.0\MakeChange.pdb
+C:\Users\brand\Documents\csenvironment\CIS-3343-110-Windows_and_Web_CS_Programming_Brandon_Docusen\Assignment_2\MakeChange\obj\Debug\net6.0\MakeChange.genruntimeconfig.cache
+C:\Users\brand\Documents\csenvironment\CIS-3343-110-Windows_and_Web_CS_Programming_Brandon_Docusen\Assignment_2\MakeChange\obj\Debug\net6.0\ref\MakeChange.dll
